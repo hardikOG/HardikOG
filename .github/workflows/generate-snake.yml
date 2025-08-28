@@ -1,32 +1,31 @@
 name: Generate Snake
-
 on:
 schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
 
+cron: "0 0 * * *"
+workflow_dispatch:
 permissions:
 contents: write
-
 jobs:
 build:
 runs-on: ubuntu-latest
 steps:
-- name: Checkout
+
+name: Checkout
 uses: actions/checkout@v4
 
-  - name: Generate snake SVG and GIF
-    uses: Platane/snk@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        dist/github-snake.svg
-        dist/github-snake-dark.svg?palette=github-dark
-        dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+name: Generate snake SVG and GIF
+uses: Platane/snk@v3
+with:
+github_user_name: ${{ github.repository_owner }}
+outputs: |
+dist/github-snake.svg
+dist/github-snake-dark.svg?palette=github-dark
+dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-  - name: Publish to output branch
-    uses: peaceiris/actions-gh-pages@v3
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      publish_branch: output
-      publish_dir: ./dist[5][1]
+name: Publish to output branch
+uses: peaceiris/actions-gh-pages@v3
+with:
+github_token: ${{ secrets.GITHUB_TOKEN }}
+publish_branch: output
+publish_dir: ./dist
