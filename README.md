@@ -1,35 +1,27 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <span>Hardik Grover</span></h1>
 
-<!-- Rotating roles (CSS-only, GitHub-safe) -->
-<p align="center">
-  <span style="display:inline-block;color:#7dd3fc;font-weight:600;">
-    <span style="display:inline-block;min-width:320px;height:24px;overflow:hidden;vertical-align:bottom;">
-      <span style="display:inline-block;white-space:nowrap;animation:roles 9s infinite steps(3);">
-        Full Stack Developer   •   AWS Cloud Practitioner   •   AI Enthusiast   •  
+<!-- Rotating roles (GitHub-safe) -->
+<p align="center" style="margin-top:-6px;">
+  <span style="color:#7dd3fc;font-weight:700;font-size:18px;display:inline-block;">
+    <span style="display:inline-block;height:26px;overflow:hidden;line-height:26px;">
+      <span class="roles-rotator" style="display:inline-block;">
+        <span style="display:block;">Full Stack Developer</span>
+        <span style="display:block;">AWS Cloud Practitioner</span>
+        <span style="display:block;">AI Enthusiast</span>
       </span>
     </span>
   </span>
 </p>
 
-<!-- Keyframes for text shift -->
-<style>
-@keyframes roles {
-  0%   { transform: translateX(0); }
-  33%  { transform: translateX(0); }
-  34%  { transform: translateX(-320px); }
-  66%  { transform: translateX(-320px); }
-  67%  { transform: translateX(-640px); }
-  100% { transform: translateX(-640px); }
-}
-</style>
+<!-- Big centered GIF (same link, bigger display) -->
+<p align="center">
+  <img alt="Coder" src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif"
+       style="max-width:860px;width:95%;height:auto;border-radius:6px;" />
+</p>
 
-<!-- Big right-side GIF (link unchanged) -->
-<img align="right" alt="Coder" width="520"
-     src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" />
-
-<!-- Badges / counters (kept simple) -->
-<p align="left">
+<!-- Profile views -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardikog&label=Profile%20views&color=0e75b6&style=flat" alt="hardikog" />
 </p>
 
@@ -82,3 +74,18 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
+
+<!-- Styles (keep at bottom so sanitizer doesn't lift it up) -->
+<style>
+@keyframes rolesY {
+  0%   { transform: translateY(0); }
+  33%  { transform: translateY(0); }
+  34%  { transform: translateY(-26px); }
+  66%  { transform: translateY(-26px); }
+  67%  { transform: translateY(-52px); }
+  100% { transform: translateY(-52px); }
+}
+.roles-rotator {
+  animation: rolesY 9s steps(3) infinite;
+}
+</style>
