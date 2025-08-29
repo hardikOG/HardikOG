@@ -6,8 +6,8 @@
   <span style="color:#7dd3fc;font-weight:700;font-size:18px;display:inline-block;">
     <span style="display:inline-block;height:26px;overflow:hidden;line-height:26px;">
       <span class="roles-rotator" style="display:inline-block;">
-        <span style="display:block;">Full Stack Developer</span>
-        <span style="display:block;">AWS Cloud Practitioner</span>
+        <span style="display:block;">Full Stack Developer | </span>
+        <span style="display:block;">AWS Cloud Practitioner | </span>
         <span style="display:block;">AI Enthusiast</span>
       </span>
     </span>
