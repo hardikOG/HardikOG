@@ -1,42 +1,22 @@
-<!-- Hidden CSS inside SVG so styles don't print visibly -->
-<svg width="0" height="0" style="position:absolute;">
-  <defs>
-    <style>
-      @keyframes rolesY {
-        0%   { transform: translateY(0); }
-        33%  { transform: translateY(0); }
-        34%  { transform: translateY(-26px); }
-        66%  { transform: translateY(-26px); }
-        67%  { transform: translateY(-52px); }
-        100% { transform: translateY(-52px); }
-      }
-      .roles-rotator { animation: rolesY 9s steps(3) infinite; }
-    </style>
-  </defs>
-</svg>
-
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Hardik Grover</h1>
 
-<!-- Typing-style rotating roles (sky blue) -->
-<p align="center" style="margin-top:-6px;">
-  <span style="color:#7dd3fc;font-weight:700;font-size:18px;display:inline-block;">
-    <span style="display:inline-block;height:26px;overflow:hidden;line-height:26px;">
-      <span class="roles-rotator" style="display:inline-block;">
-        <span style="display:block;">Full Stack Developer | </span>
-        <span style="display:block;">AWS Cloud Practitioner | </span>
-        <span style="display:block;">AI Enthusiast</span>
-      </span>
-    </span>
-  </span>
+<!-- Rotating roles (sky blue via hosted SVG, no inline CSS) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;AWS+Cloud+Practitioner;AI+Enthusiast"
+      alt="Typing roles"
+    />
+  </a>
 </p>
 
-<!-- Big centered GIF (same link, larger display) -->
+<!-- Big centered GIF (original link, responsive and large) -->
 <p align="center">
   <img
     alt="Coder"
     src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif"
-    style="max-width:900px;width:96%;height:auto;border-radius:12px;box-shadow:0 6px 24px rgba(0,0,0,0.25);"
+    width="900"
   />
 </p>
 
@@ -67,7 +47,7 @@
   </a>
 </p>
 
-<!-- Tech stack (kept exactly from Hardik's list; no mix with others) -->
+<!-- Tech stack (from Hardik's profile) -->
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
