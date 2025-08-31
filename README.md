@@ -29,7 +29,7 @@
   <li>👨‍💻 Portfolio: <a href="https://hardikgroverportfolio.vercel.app/">hardikgroverportfolio.vercel.app</a></li>
   <li>📫 Contact: <strong>reach.hardikgrover@gmail.com</strong></li>
   <li>📄 Resume: <a href="https://drive.google.com/file/d/1NzpvKoBnFtuA-ozoMZmN0-oilADSRnMN/view?usp=drive_link">View here</a></li>
-  <li>⚡ Fun fact: <em>Obsessed with big ideas, practical philosophy, and evidence‑based self‑development.</em></li>
+  <li>⚡ Fun fact: <em>Obsessed with big ideas, unthinkable thinking, practical philosophy, and self‑development.</em></li>
 </ul>
 <!-- Social -->
 <h3 align="left">Connect with me</h3>
