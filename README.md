@@ -23,7 +23,7 @@
 </p>
 <!-- About -->
 <ul>
-  <li>🔭 Currently building <strong>gymBhaiya</strong></li>
+  <li>🔭 Currently building <strong>gymBhaiya- Your personalized fitness buddy for workouts, nutrition, and smart gym advice</strong></li>
   <li>🌱 Learning <strong>DSA, advanced FastAPI, modern React/MERN, and Docker + CI/CD for scalable deployments</strong></li>
   <li>👯 Open to collaborating on <strong>Scalable Projects and Startups</strong></li>
   <li>👨‍💻 Portfolio: <a href="https://hardikgroverportfolio.vercel.app/">hardikgroverportfolio.vercel.app</a></li>
