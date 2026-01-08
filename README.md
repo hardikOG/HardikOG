@@ -58,10 +58,8 @@
        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
        alt="reach.hardikgrover@gmail.com"
        height="30"
-       width="40"
-       style="filter: invert(1);" />
+       width="40" />
 </a>
-
 
 </p>
 <!-- Tech stack (from Hardik's profile) -->
