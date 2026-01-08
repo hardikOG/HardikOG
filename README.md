@@ -37,9 +37,32 @@
   <a href="https://instagram.com/__.hardikkk" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.hardikkk" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/hardikog" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardikog" height="30" width="40" />
-  </a>
+<a href="https://www.leetcode.com/hardikog" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+       alt="hardikog"
+       height="30"
+       width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/hardik-grover-225938237/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="hardik-grover"
+       height="30"
+       width="40" />
+</a>
+
+<a href="mailto:reach.hardikgrover@gmail.com">
+  <img align="center"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+       alt="reach.hardikgrover@gmail.com"
+       height="30"
+       width="40"
+       style="filter: invert(1);" />
+</a>
+
+
 </p>
 <!-- Tech stack (from Hardik's profile) -->
 <h3 align="left">Languages and Tools</h3>
