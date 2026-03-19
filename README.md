@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;AWS+Cloud+Practitioner;AI+Enthusiast"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;AI+Enthusiast"
       alt="Typing roles"
     />
   </a>
