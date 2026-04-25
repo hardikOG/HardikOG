@@ -28,7 +28,7 @@
   <li>👯 Open to collaborating on <strong>Scalable Projects and Startups</strong></li>
   <li>👨‍💻 Portfolio: <a href="https://hardikgroverportfolio.vercel.app/">hardikgroverportfolio.vercel.app</a></li>
   <li>📫 Contact: <strong>reach.hardikgrover@gmail.com</strong></li>
-  <li>📄 Resume: <a href="https://drive.google.com/file/d/1NzpvKoBnFtuA-ozoMZmN0-oilADSRnMN/view?usp=drive_link">View here</a></li>
+  <li>📄 Resume: <a href="[[https://drive.google.com/file/d/1NzpvKoBnFtuA-ozoMZmN0-oilADSRnMN/view?usp=drive_link](https://docs.google.com/document/d/1CuyLCdtBYNUBkiDlr4PjqsC6b0b6Ozsx/edit?usp=drive_link&ouid=108427036224252207313&rtpof=true&sd=true)](https://docs.google.com/document/d/1CuyLCdtBYNUBkiDlr4PjqsC6b0b6Ozsx/edit?usp=sharing&ouid=108427036224252207313&rtpof=true&sd=true)">View here</a></li>
   <li>⚡ Fun fact: <em>Obsessed with big ideas, unthinkable thinking, practical philosophy, and self‑development.</em></li>
 </ul>
 <!-- Social -->
